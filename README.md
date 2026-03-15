@@ -41,7 +41,7 @@ The notebook `gradient_descent_demo.ipynb` includes:
 ## How to Run
 
 1. Open `gradient_descent_demo.ipynb` in VS Code or Jupyter.
-2. Select the project virtual environment kernel (`.venv`).
+2. Create a Virtual Environment and Install Required Packages from `requirements.txt`.
 3. Run cells from top to bottom.
 
 Required packages:
